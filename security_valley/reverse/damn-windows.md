@@ -18,7 +18,13 @@ It's a bit messy we understand that it's doing comparison but cannot see the par
 
 ![](../images/damn-windows4.png)
 
-We clearly see that there is a string loaded in the stack, could it be the string we're looking for ?
+We clearly see that there is a string loaded in the stack, could it be the string we're looking for ? We check each DAT and the offset to recover the string:
 
 ![](../images/damn-windows5.png)
+
+![](../images/damn-windows6.png)
+
+![](../images/damn-windows7.png)
+
+![](../images/damn-windows8.png)
 
