@@ -28,3 +28,8 @@ We clearly see that there is a string loaded in the stack, could it be the strin
 
 ![](../images/damn-windows8.png)
 
+That gives us:
+
+`SecVal{this_1S_n1ce}`
+
+Flagged !
