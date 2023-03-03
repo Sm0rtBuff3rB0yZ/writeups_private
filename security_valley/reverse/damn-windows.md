@@ -11,7 +11,7 @@ We directly check main.main function:
 
 ![](../images/damn-windows2.png)
 
-We understand that the function ask us for a password and read our input. We see a function that seems to compare the password, thus we decide to inspect it to see if we can retrieve the string that is compared to our input:
+We understand that the function ask us for a password and read our input. <br>We see a function that seems to compare the password, thus we decide to inspect it to see if we can retrieve the string that is compared to our input:
 
 ![](../images/damn-windows3.png)
 
